@@ -106,5 +106,7 @@ int main() {
     // Perform Dijkstra's algorithm
     dijkstra(graph, 0, 1, circles, radii);
 
+
+// cam asta i tot programu 
     return 0;
 }
